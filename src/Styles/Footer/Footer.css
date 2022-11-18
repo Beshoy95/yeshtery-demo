@@ -1,0 +1,103 @@
+.footer {
+  width: 100%;
+  height: 495px;
+  background-color: #3c3c3b;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+.footer .container {
+  width: 1168px;
+  margin: auto;
+}
+.footer .content {
+  display: flex;
+}
+.footer .brdr {
+  width: 5px;
+  height: 300px;
+  background-color: black;
+}
+.footer .description {
+  width: 495px;
+  padding-right: 90px;
+  padding-top: 50px;
+}
+.footer p {
+  font-weight: 300;
+  text-align: left;
+  font-size: 16px;
+}
+.footer .news-letter {
+  font-size: 18px;
+  color: #ffffff;
+  padding-top: 30px;
+}
+.footer .search-bar {
+  height: 48px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 24px;
+}
+.footer input {
+  border: none;
+  font-size: 12px;
+  padding-left: 15px;
+  border-radius: 24px;
+}
+.footer .subscribe {
+  display: flex;
+  background-color: #FFF100;
+  color: black;
+  font-size: 10px;
+  font-weight: bold;
+  width: 120px;
+  height: 38px;
+  border-radius: 19px;
+  align-items: center;
+  justify-content: space-evenly;
+  border: none;
+  margin-right: 5px;
+}
+.footer .list {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.footer ul {
+  list-style: none;
+  padding: 0;
+  font-size: 16px;
+  padding-right: 54px;
+}
+.footer .social {
+  display: flex;
+}
+.footer .social-title {
+  margin-left: 10px;
+}
+.footer .copyrights {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-top: solid 2px grey;
+  padding-top: 8px;
+}
+.footer .powered {
+  display: flex;
+}
+.footer .powered-title {
+  margin-right: 8px;
+}
+.footer .cash {
+  display: flex;
+  padding-left: 100px;
+  padding-top: 10px;
+}
+.footer .cash-item {
+  margin-right: 9px;
+}
+.footer .contact {
+  width: 575px;
+}/*# sourceMappingURL=Footer.css.map */

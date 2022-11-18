@@ -1,0 +1,52 @@
+@import '../../Constants/Constants.scss';
+
+.header {
+  width: 100%;
+  background-color: $thirdColor;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  text-align: left;
+
+  .container {
+    @include container();
+  }
+  .content {
+    display: flex;
+    height: 48px;
+    align-items: center;
+  }
+  .quote {
+    display: flex;
+    padding-left: 90px;
+    align-items: center;
+    font-size: 14px;
+  }
+  .icon {
+    margin-right: 32px;
+  }
+  .arrow {
+    width: 8px;
+    height: 12;
+    padding-right: 20px;
+  }
+  .shop {
+    font-weight: bold;
+    text-decoration: underline;
+    padding-right: 14px;
+    margin-left: 12px;
+  }
+  ul {
+    display: flex;
+    list-style: none;
+    padding-left: 20px;
+  }
+  li {
+    display: flex;
+    margin-right: 20px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  .icon2 {
+    padding-right: 10px;
+  }
+}

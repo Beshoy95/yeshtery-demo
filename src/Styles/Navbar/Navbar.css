@@ -1,0 +1,71 @@
+.navbar {
+  width: 100%;
+  background-color: white;
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  height: 84px;
+}
+.navbar .container {
+  width: 1168px;
+  margin: auto;
+}
+.navbar .content {
+  display: flex;
+  height: 84px;
+  align-items: center;
+}
+.navbar .sport-icon {
+  margin: auto;
+}
+.navbar .search-bar {
+  display: flex;
+  border-radius: 24px;
+  border: 0.5004362464px solid #d8d8d8;
+  width: 350px;
+  height: 48px;
+  align-items: center;
+  padding-left: 15px;
+}
+.navbar .search-icon {
+  width: 24px;
+  height: 24px;
+}
+.navbar input {
+  border: none;
+  font-weight: bold;
+  font-size: 16px;
+  padding-left: 5px;
+}
+.navbar ul {
+  display: flex;
+  list-style: none;
+  padding-left: 25px;
+}
+.navbar li {
+  display: flex;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 32px;
+}
+.navbar .icon2 {
+  padding-right: 8px;
+}
+.navbar .cart-icon {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  background-color: #FFF100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: 10px;
+  right: 50px;
+}
+.navbar .customModal {
+  width: 100px;
+}/*# sourceMappingURL=Navbar.css.map */

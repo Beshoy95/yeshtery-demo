@@ -1,0 +1,25 @@
+.banner {
+  width: 100%;
+  height: 48px;
+  background-color: black;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+.banner .container {
+  width: 1168px;
+  margin: auto;
+}
+.banner .content {
+  display: flex;
+  height: 48px;
+  align-items: center;
+  justify-content: space-between;
+}
+.banner ul {
+  list-style: none;
+  padding: 0;
+}
+.banner .link {
+  color: white;
+  text-decoration: none;
+}/*# sourceMappingURL=Banner.css.map */

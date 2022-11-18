@@ -1,0 +1,16 @@
+.path .container {
+  width: 1168px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  height: 70px;
+  font-family: "Montserrat", sans-serif;
+}
+.path .link {
+  color: #1d1d1b;
+  text-decoration: underline;
+  margin-right: 8px;
+  margin-left: 8px;
+  font-size: 16px;
+  font-weight: 700;
+}/*# sourceMappingURL=Path.css.map */

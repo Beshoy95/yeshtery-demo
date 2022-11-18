@@ -1,0 +1,21 @@
+//COLORS
+$backgroundColor: red;
+$primaryColor:black;
+$secondaryColor:white;
+$thirdColor:#FFF100;
+//FONTS
+$titleFont: Arial,sans-serif;
+$bodyFont:'Times New Roman',serif;
+
+@mixin container{
+  width: 1168px;
+  margin: auto;
+}
+
+@mixin buttonStyle($backgroundColor,$color) {
+    width: 252px;
+    height: 54px;
+    background-color: $backgroundColor;
+    color: $color;
+    border-radius: 27px;
+  }

@@ -1,0 +1,50 @@
+.header {
+  width: 100%;
+  background-color: #FFF100;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  text-align: left;
+}
+.header .container {
+  width: 1168px;
+  margin: auto;
+}
+.header .content {
+  display: flex;
+  height: 48px;
+  align-items: center;
+}
+.header .quote {
+  display: flex;
+  padding-left: 90px;
+  align-items: center;
+  font-size: 14px;
+}
+.header .icon {
+  margin-right: 32px;
+}
+.header .arrow {
+  width: 8px;
+  height: 12;
+  padding-right: 20px;
+}
+.header .shop {
+  font-weight: bold;
+  text-decoration: underline;
+  padding-right: 14px;
+  margin-left: 12px;
+}
+.header ul {
+  display: flex;
+  list-style: none;
+  padding-left: 20px;
+}
+.header li {
+  display: flex;
+  margin-right: 20px;
+  font-size: 14px;
+  font-weight: bold;
+}
+.header .icon2 {
+  padding-right: 10px;
+}/*# sourceMappingURL=Header.css.map */

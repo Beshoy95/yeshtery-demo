@@ -1,0 +1,100 @@
+.customModal {
+  background: white;
+  width: 475px;
+  height: 1080px;
+  position: absolute;
+  top: -20px;
+  right: -20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.cart-title {
+  text-align: center;
+  color: #542e90;
+  font-size: 28px;
+}
+
+.cart-subTitle {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.cart-item {
+  display: flex;
+  border: 0.75px solid #ececec;
+  border-radius: 7px;
+  align-items: center;
+  padding-left: 5px;
+  padding-right: 5px;
+  justify-content: center;
+}
+
+.cart-image {
+  width: 104px;
+  height: 104px;
+  padding-right: 10px;
+}
+
+.cart-desc {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.card-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cart-remove {
+  width: 80px;
+  height: 24px;
+  border-radius: 12px;
+  background-color: #fff200;
+  border: none;
+  cursor: pointer;
+}
+
+.cart-currency {
+  font-size: 20px;
+  color: #542e90;
+  font-weight: bold;
+}
+
+.cart-quantity {
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.cart-total {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.card-btn {
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn-primary {
+  background-color: #FFF100;
+  color: black;
+  width: 196px;
+  height: 48px;
+  border-radius: 24px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn-secondary {
+  background-color: #542e90;
+  color: white;
+  width: 196px;
+  height: 48px;
+  border-radius: 24px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}/*# sourceMappingURL=Modal.css.map */

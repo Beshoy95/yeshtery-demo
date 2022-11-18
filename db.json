@@ -1,0 +1,62 @@
+{
+  "similarProducts": [
+    {
+      "image": "Group575.png",
+      "title": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "price": "9,999",
+      "currency": "LE",
+      "discount": "30% Off",
+      "brandImage": "Group346.svg",
+      "rates": "4.2 of 5",
+      "mall": "Genena Mall"
+    },
+    {
+      "image": "Group583.png",
+      "title": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "price": "9,999",
+      "currency": "LE",
+      "discount": "30% Off",
+      "brandImage": "Group346.svg",
+      "rates": "4.2 of 5",
+      "mall": "Genena Mall"
+    },
+    {
+      "image": "Group589.png",
+      "title": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "price": "9,999",
+      "currency": "LE",
+      "discount": "30% Off",
+      "brandImage": "Group346.svg",
+      "rates": "4.2 of 5",
+      "mall": "Genena Mall"
+    },
+    {
+      "image": "Group597.png",
+      "title": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "price": "9,999",
+      "currency": "LE",
+      "discount": "30% Off",
+      "brandImage": "Group346.svg",
+      "rates": "4.2 of 5",
+      "mall": "Genena Mall"
+    }
+  ],
+  "mainProducts": [
+    {
+      "mainImage": "Group597.png",
+      "title": "Adidas black t-shirt lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "price": 9.999,
+      "currency": "LE",
+      "discount": "30% Off",
+      "brandImage": "Group346.svg",
+      "rates": "4.9 of 5",
+      "category": "Men",
+      "votes": "22 Rates",
+      "frontImage":"Group333.png",
+      "backImage":"Group331.png",
+      "leftImage":"Group329.png",
+      "rightImage":"Group335.png",
+      "quantity":0
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+.home {
+  width: 100%;
+  height: 1538px;
+  background-color: white;
+  font-family: "Montserrat", sans-serif;
+}
+.home .container {
+  width: 1168px;
+  margin: auto;
+  display: flex;
+  margin-top: 50px;
+}
+.home .content {
+  width: 568px;
+}
+.home .product-photo {
+  display: flex;
+  padding-top: 15px;
+}
+.home .product-image {
+  margin-right: 15px;
+}
+.home .photo-shirt {
+  margin-left: 10px;
+}
+.home .description {
+  padding-left: 80px;
+}
+.home .desc-item {
+  width: 395px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.home .desc-men {
+  color: #a7a9ac;
+  font-weight: 700;
+}
+.home .star {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+}
+.home .star-icon {
+  margin-left: 5px;
+}
+.home .rates {
+  margin-left: 16px;
+  font-weight: bold;
+  font-size: 17px;
+}
+.home .votes {
+  margin-left: 16px;
+  font-weight: 700;
+  color: #575756;
+}
+.home .amount-item {
+  display: flex;
+  align-items: center;
+}
+.home .amount, .home .amount-similar {
+  color: #542e90;
+  font-size: 30px;
+  font-weight: bold;
+}
+.home .amount-le {
+  font-size: 20px;
+}
+.home .price, .home .price-similar {
+  color: #a7a9ac;
+  margin-left: 20px;
+  margin-right: 19px;
+  text-decoration: line-through;
+}
+.home .dicsount {
+  background-color: #FFF100;
+  width: 77px;
+  height: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+}
+.home .size {
+  font-size: 18px;
+  font-weight: 700;
+}
+.home .circles {
+  display: flex;
+}
+.home .size-circle {
+  width: 60px;
+  height: 60px;
+  color: #542e90;
+  margin-right: 16px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0.5px solid #d9d9d9;
+  font-size: 10px;
+  font-weight: bold;
+}
+.home .size-large {
+  color: #1d1d1b;
+  background: #ececec;
+}
+.home .colour-pic {
+  margin-left: 16px;
+}
+.home .colour-selected {
+  border: 1px solid #542e90;
+  border-radius: 50%;
+}
+.home .btn, .home .quantity, .home .btn-secondary, .home .btn-primary {
+  width: 252px;
+  height: 54px;
+  border-radius: 27px;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+.home .btn-primary {
+  background-color: #542e90;
+  color: white;
+}
+.home .btn-secondary {
+  background-color: #FFF100;
+  color: black;
+  margin-left: 15px;
+}
+.home .quantity {
+  display: flex;
+  background-color: #f5f5f5;
+  align-items: center;
+  justify-content: space-between;
+}
+.home .quantity-circle {
+  width: 37px;
+  height: 37px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  background-color: #FFF100;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.home .btn-group {
+  margin-top: 30px;
+}
+.home .similar-product {
+  display: flex;
+}
+.home .product-container {
+  border: 0.7551665306px solid #ececec;
+  padding: 9px;
+  margin-right: 21px;
+  border-radius: 5px;
+}
+.home .similar-text {
+  color: #1d1d1b;
+  font-size: 14px;
+  font-weight: bold;
+}
+.home .related {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.home .related-price {
+  display: flex;
+}
+.home .amount-similar {
+  font-size: 20px;
+}
+.home .price-similar {
+  margin-left: 0;
+}
+.home .similar-title {
+  color: #542e90;
+  font-size: 28px;
+  font-weight: bold;
+}
+.home .similar-subTitle {
+  color: #575756;
+  font-size: 22px;
+  font-weight: 400;
+}
+.home .star-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 12px;
+}
+.home .pickup {
+  text-align: center;
+}
+.home .picked-text {
+  color: black;
+  font-size: 12px;
+  font-weight: bold;
+}
+.home .picked-from {
+  font-size: 10px;
+  font-weight: bold;
+}
+.home .main-addidas {
+  width: 577px;
+  height: 596px;
+}/*# sourceMappingURL=Home.css.map */
